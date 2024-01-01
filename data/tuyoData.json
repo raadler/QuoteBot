@@ -250,5 +250,11 @@
         }
     ],
     "tanoquotes": [],
-    "tasmakatquotes": []
+    "tasmakatquotes": [
+        {
+            "quote": "If not for the eagle, we all might have died there, hardly more than a day’s ride from my mother’s camp, in a place where the wide steppe stretched out before us and, behind us, the peaks of the great mountains raked toward the vault of the heavens.",
+            "chapter": "Chapter 1",
+            "percentage": 1
+        }
+]
 }
